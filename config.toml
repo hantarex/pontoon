@@ -1,0 +1,11 @@
+basepath = "."
+
+locales = [
+    "es",
+    "fr",
+    "ru",
+]
+
+[[paths]]
+    reference = "locale/messages.xlf"
+    l10n = "locale/messages.{locale}.xlf"

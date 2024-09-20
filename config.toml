@@ -7,5 +7,5 @@ locales = [
 ]
 
 [[paths]]
-    reference = "locale/messages.xlf"
-    l10n = "locale/messages.{locale}.xlf"
+    reference = "locale/messages.xliff"
+    l10n = "locale/messages.{locale}.xliff"
